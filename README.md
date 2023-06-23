@@ -1,7 +1,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=LihanChen2004&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 ### Hi there 👋
-- 💁‍♂️ I'm an undergraduate student in SMBU
+- 💁‍♂️ I'm Lihan Chen(陈力瀚), an undergraduate student at SMBU.
 
 - 🌱 I'm currently learning  C++, ROS ...
 
