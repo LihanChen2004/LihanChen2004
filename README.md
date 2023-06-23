@@ -6,7 +6,7 @@
 - 🌱 I'm currently learning  C++, ROS ...
 
 - 📫 How to reach me: 1120220476@smbu.edu.cn
-Bilibili: [陈立憨](https://space.bilibili.com/170786212?spm_id_from=333.1007.0.0)
+- Bilibili: [陈立憨](https://space.bilibili.com/170786212?spm_id_from=333.1007.0.0)
 
 <!--
 **LihanChen2004/LihanChen2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
