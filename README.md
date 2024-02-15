@@ -1,10 +1,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=LihanChen2004&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 ### Hi there 👋
-- 💁‍♂️ I'm Lihan Chen(陈力瀚), an undergraduate student at SMBU.
-
-- 🌱 I'm currently learning  C++, ROS ...
-
+- 💁‍♂️ I'm Lihan Chen(陈力瀚), currently learning  C++, ROS ...
 - 📫 How to reach me: 1120220476@smbu.edu.cn
 - Bilibili: [陈立憨](https://space.bilibili.com/170786212?spm_id_from=333.1007.0.0)
 
