@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 - 💁‍♂️ I'm Lihan Chen(陈力瀚), currently learning  C++, ROS ...
-- 📫 How to reach me: 1120220476@smbu.edu.cn
+- 📫 How to reach me: lihanchen2004@163.com
 - Bilibili: [陈立憨](https://space.bilibili.com/170786212?spm_id_from=333.1007.0.0)
 
 <!--
