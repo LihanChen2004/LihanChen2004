@@ -10,12 +10,14 @@
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=LihanChen2004&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=LihanChen2004&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 - 🌟 Interested in robotics, navigation, photography...
 - 🌱 I’m currently learning C++, ROS ... 
 - 📫 How to reach me: lihanchen2004@163.com, [Bilibili: 陈立憨](https://space.bilibili.com/170786212)
 - 👯 INFJ, but eager to friendly socializing
+
+## 📜 𝐀𝐖𝐄𝐒𝐎𝐌𝐄 [𝐖𝐚𝐤𝐚𝐓𝐢𝐦𝐞](https://github.com/anmol098/waka-readme-stats)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
