@@ -20,15 +20,11 @@
 ## 📜 𝐀𝐖𝐄𝐒𝐎𝐌𝐄 [𝐖𝐚𝐤𝐚𝐓𝐢𝐦𝐞](https://github.com/anmol098/waka-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-979.6%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 328.2 kB Used in GitHub's Storage 
- > 
-> 🏆 83 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -61,10 +57,18 @@ Sunday                   17 commits          █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      1 hr 46 mins        █████████░░░░░░░░░░░░░░░░   37.05 % 
+JSON                     50 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
+Other                    39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+C                        32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+Markdown                 18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+src                      1 hr 33 mins        ████████░░░░░░░░░░░░░░░░░   32.53 % 
+NExplore                 1 hr                █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
+autonomous_exploration_de52 mins             █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
+nexplore_gz_simulator    42 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
+vehicle_simulator        37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
 ```
 
 **I Mostly Code in C++** 
@@ -84,7 +88,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LihanChen2004/LihanChen2004/main/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2024 12:50:40 UTC
+ Last Updated on 03/08/2024 04:14:08 UTC
 <!--END_SECTION:waka-->
 
 <!--
