@@ -61,14 +61,10 @@ Sunday                   98 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   14 mins             ██████████░░░░░░░░░░░░░░░   41.63 % 
-TOML                     13 mins             █████████░░░░░░░░░░░░░░░░   36.97 % 
-Other                    3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
-Markdown                 2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-Git Config               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-mobiles_dataset_analysis 35 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -88,7 +84,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LihanChen2004/LihanChen2004/main/assets/bar_graph.png)
 
 
- Last Updated on 21/04/2025 04:21:18 UTC
+ Last Updated on 22/04/2025 04:19:31 UTC
 <!--END_SECTION:waka-->
 
 <!--
