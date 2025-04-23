@@ -61,10 +61,11 @@ Sunday                   98 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   22 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+pb2025_sentry_nav        16 mins             ██████████████████░░░░░░░   72.69 % 
+pb2025_sentry_ws         6 mins              ███████░░░░░░░░░░░░░░░░░░   27.31 % 
 ```
 
 **I Mostly Code in C++** 
@@ -84,7 +85,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LihanChen2004/LihanChen2004/main/assets/bar_graph.png)
 
 
- Last Updated on 22/04/2025 04:19:31 UTC
+ Last Updated on 23/04/2025 04:20:13 UTC
 <!--END_SECTION:waka-->
 
 <!--
