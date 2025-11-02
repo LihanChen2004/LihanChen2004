@@ -20,13 +20,11 @@
 ## 📜 𝐀𝐖𝐄𝐒𝐎𝐌𝐄 [𝐖𝐚𝐤𝐚𝐓𝐢𝐦𝐞](https://github.com/anmol098/waka-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C568%20hrs%2034%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 501.4 kB Used in GitHub's Storage 
+> 📦 501.5 kB Used in GitHub's Storage 
  > 
 > 🏆 500 Contributions in the Year 2025
  > 
@@ -92,7 +90,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LihanChen2004/LihanChen2004/main/assets/bar_graph.png)
 
 
- Last Updated on 01/11/2025 04:19:14 UTC
+ Last Updated on 02/11/2025 04:21:50 UTC
 <!--END_SECTION:waka-->
 
 <!--
