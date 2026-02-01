@@ -61,14 +61,10 @@ Sunday                   152 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Text                     8 mins              ██████████░░░░░░░░░░░░░░░   41.83 % 
-Python                   7 mins              █████████░░░░░░░░░░░░░░░░   35.34 % 
-Batchfile                3 mins              █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-damaihelper              20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -88,7 +84,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LihanChen2004/LihanChen2004/main/assets/bar_graph.png)
 
 
- Last Updated on 31/01/2026 05:01:02 UTC
+ Last Updated on 01/02/2026 05:22:12 UTC
 <!--END_SECTION:waka-->
 
 <!--
