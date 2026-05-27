@@ -26,7 +26,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 679.4 kB Used in GitHub's Storage 
+> 📦 679.5 kB Used in GitHub's Storage 
  > 
 > 🏆 138 Contributions in the Year 2026
  > 
@@ -61,14 +61,10 @@ Sunday                   438 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 17 mins        █████████████████████████   99.38 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-docs                     1 hr 15 mins        ████████████████████████░   96.72 % 
-Design-of-Navigation-Func2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-scorpio_ws               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -88,7 +84,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LihanChen2004/LihanChen2004/main/assets/bar_graph.png)
 
 
- Last Updated on 26/05/2026 07:42:10 UTC
+ Last Updated on 27/05/2026 07:59:40 UTC
 <!--END_SECTION:waka-->
 
 <!--
