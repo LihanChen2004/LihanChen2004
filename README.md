@@ -61,10 +61,10 @@ Sunday                   429 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-YAML                     3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-rime                     3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -84,7 +84,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LihanChen2004/LihanChen2004/main/assets/bar_graph.png)
 
 
- Last Updated on 28/06/2026 07:47:45 UTC
+ Last Updated on 29/06/2026 08:55:08 UTC
 <!--END_SECTION:waka-->
 
 <!--
