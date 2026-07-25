@@ -59,16 +59,14 @@ Sunday                   443 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    2 hrs 35 mins       ██████████████████░░░░░░░   73.91 % 
-Bash                     29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
-Python                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
-HTML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
-TypeScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+HTML                     9 mins              ███████████████░░░░░░░░░░   60.64 % 
+TypeScript               4 mins              ███████░░░░░░░░░░░░░░░░░░   28.50 % 
+Markdown                 1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🐱‍💻 Projects: 
-anytelop_revo3           3 hrs 13 mins       ███████████████████████░░   91.78 % 
-Kimodo：可控人体运动生成的大规模扩散模型  15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
-kitty                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+Kimodo：可控人体运动生成的大规模扩散模型  15 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -88,7 +86,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LihanChen2004/LihanChen2004/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 06:23:04 UTC
+ Last Updated on 25/07/2026 06:13:29 UTC
 <!--END_SECTION:waka-->
 
 <!--
