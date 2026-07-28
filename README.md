@@ -20,9 +20,7 @@
 ## 📜 𝐀𝐖𝐄𝐒𝐎𝐌𝐄 [𝐖𝐚𝐤𝐚𝐓𝐢𝐦𝐞](https://github.com/anmol098/waka-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C008%20hrs%2016%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.20%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.19%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -39,21 +37,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                214 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-🌆 Daytime                1140 commits        ███████████░░░░░░░░░░░░░░   45.42 % 
-🌃 Evening                1136 commits        ███████████░░░░░░░░░░░░░░   45.26 % 
+🌞 Morning                214 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+🌆 Daytime                1139 commits        ███████████░░░░░░░░░░░░░░   45.43 % 
+🌃 Evening                1134 commits        ███████████░░░░░░░░░░░░░░   45.23 % 
 🌙 Night                  20 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   334 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-Tuesday                  331 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
-Wednesday                432 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
-Thursday                 341 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-Friday                   316 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
-Saturday                 313 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-Sunday                   443 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+Monday                   333 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+Tuesday                  329 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+Wednesday                432 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
+Thursday                 341 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+Friday                   316 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+Saturday                 313 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+Sunday                   443 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
 ```
 
 
@@ -61,14 +59,21 @@ Sunday                   443 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-HTML                     9 mins              ███████████████░░░░░░░░░░   60.64 % 
-TypeScript               4 mins              ███████░░░░░░░░░░░░░░░░░░   28.50 % 
-Markdown                 1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Markdown                 55 mins             ████████████████████░░░░░   80.29 % 
+HTML                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+TypeScript               4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🐱‍💻 Projects: 
-Kimodo：可控人体运动生成的大规模扩散模型  15 mins             █████████████████████████   100.00 % 
+Unknown Project          53 mins             ████████████████████░░░░░   78.11 % 
+Kimodo：可控人体运动生成的大规模扩散模型  15 mins             █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -88,7 +93,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LihanChen2004/LihanChen2004/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 06:59:13 UTC
+ Last Updated on 28/07/2026 06:22:53 UTC
 <!--END_SECTION:waka-->
 
 <!--
