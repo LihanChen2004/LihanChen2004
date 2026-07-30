@@ -63,15 +63,11 @@ Sunday                   443 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 55 mins             ████████████████████░░░░░   80.29 % 
-HTML                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-TypeScript               4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Markdown                 1 hr 10 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          53 mins             ████████████████████░░░░░   78.11 % 
-Kimodo：可控人体运动生成的大规模扩散模型  15 mins             █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
+Unknown Project          53 mins             ███████████████████░░░░░░   76.69 % 
+mvsanywhere              16 mins             ██████░░░░░░░░░░░░░░░░░░░   23.31 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -97,7 +93,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LihanChen2004/LihanChen2004/main/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2026 06:28:01 UTC
+ Last Updated on 30/07/2026 06:23:54 UTC
 <!--END_SECTION:waka-->
 
 <!--
