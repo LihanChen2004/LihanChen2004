@@ -20,7 +20,7 @@
 ## 📜 𝐀𝐖𝐄𝐒𝐎𝐌𝐄 [𝐖𝐚𝐤𝐚𝐓𝐢𝐦𝐞](https://github.com/anmol098/waka-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C841%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C841%20hrs%2051%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-147%20hrs%2044%20mins-blue?style=flat)
 
@@ -63,17 +63,35 @@ Sunday                   443 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 10 mins        █████████████████████████   100.00 % 
+Markdown                 1 hr 10 mins        ██████████████████░░░░░░░   73.13 % 
+Other                    25 mins             ███████░░░░░░░░░░░░░░░░░░   26.82 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🐱‍💻 Projects: 
-Unknown Project          53 mins             ███████████████████░░░░░░   76.69 % 
-mvsanywhere              16 mins             ██████░░░░░░░░░░░░░░░░░░░   23.31 % 
+Unknown Project          53 mins             ██████████████░░░░░░░░░░░   56.07 % 
+mvsanywhere              31 mins             ████████░░░░░░░░░░░░░░░░░   32.77 % 
+Kimodo：可控人体运动生成的大规模扩散模型  8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+kitty                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 16 mins (17.56%)
+
+✍️ 0 lines written by AI, 116 lines written by hand (0.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 1 AI Prompts
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 112 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
@@ -93,7 +111,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LihanChen2004/LihanChen2004/main/assets/bar_graph.png)
 
 
- Last Updated on 30/07/2026 06:23:54 UTC
+ Last Updated on 31/07/2026 06:40:49 UTC
 <!--END_SECTION:waka-->
 
 <!--
