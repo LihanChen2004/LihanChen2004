@@ -20,9 +20,9 @@
 ## 📜 𝐀𝐖𝐄𝐒𝐎𝐌𝐄 [𝐖𝐚𝐤𝐚𝐓𝐢𝐦𝐞](https://github.com/anmol098/waka-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C845%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C850%20hrs%2058%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-151%20hrs%2054%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-156%20hrs%2042%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.19%20million%20lines%20of%20code-blue?style=flat)
 
@@ -63,42 +63,42 @@ Sunday                   443 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 3 hrs 37 mins       ██████████░░░░░░░░░░░░░░░   38.03 % 
-JSON                     2 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   29.67 % 
-Other                    1 hr 47 mins        █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
-Bash                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
-Python                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+Markdown                 7 hrs 4 mins        █████████░░░░░░░░░░░░░░░░   37.17 % 
+Python                   5 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   27.62 % 
+JSON                     2 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
+Other                    1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+Bash                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
 
 🐱‍💻 Projects: 
-lihanchen                5 hrs 50 mins       ███████████████░░░░░░░░░░   61.23 % 
-Agentic Real2Sim：视觉语言驱动的物1 hr 51 mins        █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
-Unknown Project          57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-mvsanywhere              31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-gsplat                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+lihanchen                15 hrs 1 min        ████████████████████░░░░░   78.89 % 
+Agentic Real2Sim：视觉语言驱动的物1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+Unknown Project          1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+mvsanywhere              31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+gsplat                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 26 mins (67.43%)
+⏱ AI Coding Time: 15 hrs 43 mins (82.51%)
 
-✍️ 1,500 lines written by AI, 187 lines written by hand (88.92% AI-written)
+✍️ 6,303 lines written by AI, 244 lines written by hand (96.27% AI-written)
 
-🔤 1,266,479 Input Tokens, 100,454 Output Tokens
+🔤 1,641,501 Input Tokens, 195,895 Output Tokens
 
-💵 $5.31 Estimated AI Cost This Week
+💵 $7.86 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 63 AI Prompts
+🧠 15 AI Sessions, 92 AI Prompts
 
-Mimo                     1,500 lines         █████████████████████████   99.21 % 
-Opencode-Cli             12 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
-Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Deepseek                 4,820 lines         ███████████████████░░░░░░   76.12 % 
+Mimo                     1,500 lines         ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
+Opencode-Cli             12 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 88.92% of written lines came from AI
-📚 Verbose Prompter — average 4,082 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 21.25% of changed lines were hand-edited
+🤖 AI-Driven — 96.27% of written lines came from AI
+📚 Verbose Prompter — average 2,941 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 8.75% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
@@ -118,7 +118,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LihanChen2004/LihanChen2004/main/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2026 06:30:06 UTC
+ Last Updated on 03/08/2026 06:56:25 UTC
 <!--END_SECTION:waka-->
 
 <!--
