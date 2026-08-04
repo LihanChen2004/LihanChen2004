@@ -20,9 +20,9 @@
 ## 📜 𝐀𝐖𝐄𝐒𝐎𝐌𝐄 [𝐖𝐚𝐤𝐚𝐓𝐢𝐦𝐞](https://github.com/anmol098/waka-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C850%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C860%20hrs%2020%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-156%20hrs%2042%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-165%20hrs%2059%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.19%20million%20lines%20of%20code-blue?style=flat)
 
@@ -63,26 +63,26 @@ Sunday                   443 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 7 hrs 4 mins        █████████░░░░░░░░░░░░░░░░   37.17 % 
-Python                   5 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   27.62 % 
-JSON                     2 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-Other                    1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-Bash                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+Markdown                 6 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   34.05 % 
+Python                   5 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   28.99 % 
+JSON                     2 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+Other                    1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+Bash                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
 
 🐱‍💻 Projects: 
-lihanchen                15 hrs 1 min        ████████████████████░░░░░   78.89 % 
-Agentic Real2Sim：视觉语言驱动的物1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-Unknown Project          1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
-mvsanywhere              31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
-gsplat                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+lihanchen                15 hrs 1 min        █████████████████████░░░░   82.80 % 
+Agentic Real2Sim：视觉语言驱动的物1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+mvsanywhere              31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+gsplat                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+Kimodo：可控人体运动生成的大规模扩散模型  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 43 mins (82.51%)
+⏱ AI Coding Time: 15 hrs 43 mins (86.6%)
 
-✍️ 6,303 lines written by AI, 244 lines written by hand (96.27% AI-written)
+✍️ 6,303 lines written by AI, 141 lines written by hand (97.81% AI-written)
 
 🔤 1,641,501 Input Tokens, 195,895 Output Tokens
 
@@ -95,10 +95,10 @@ Mimo                     1,500 lines         ██████░░░░░�
 Opencode-Cli             12 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.27% of written lines came from AI
+🤖 AI-Driven — 97.81% of written lines came from AI
 📚 Verbose Prompter — average 2,941 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 8.75% of changed lines were hand-edited
+🚀 High AI Trust — 6.07% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
@@ -118,7 +118,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LihanChen2004/LihanChen2004/main/assets/bar_graph.png)
 
 
- Last Updated on 03/08/2026 06:56:25 UTC
+ Last Updated on 04/08/2026 06:24:03 UTC
 <!--END_SECTION:waka-->
 
 <!--
