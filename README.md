@@ -20,9 +20,9 @@
 ## 📜 𝐀𝐖𝐄𝐒𝐎𝐌𝐄 [𝐖𝐚𝐤𝐚𝐓𝐢𝐦𝐞](https://github.com/anmol098/waka-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C876%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C878%20hrs%2026%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-182%20hrs%2016%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-182%20hrs%2020%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.19%20million%20lines%20of%20code-blue?style=flat)
 
@@ -63,42 +63,42 @@ Sunday                   443 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   14 hrs 56 mins      ███████████░░░░░░░░░░░░░░   44.70 % 
-Markdown                 12 hrs 28 mins      █████████░░░░░░░░░░░░░░░░   37.28 % 
-JSON                     2 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-TOML                     1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-Git Config               36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+Python                   13 hrs 22 mins      ████████████░░░░░░░░░░░░░   46.99 % 
+Markdown                 11 hrs 55 mins      ██████████░░░░░░░░░░░░░░░   41.91 % 
+TOML                     1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Git Config               36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+Bash                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 
 🐱‍💻 Projects: 
-lihanchen                30 hrs 6 mins       ███████████████████████░░   90.02 % 
-Unknown Project          2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
-odin_gsplat_dev          43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-gsplat                   26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+lihanchen                25 hrs 17 mins      ██████████████████████░░░   88.88 % 
+Unknown Project          2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+odin_gsplat_dev          43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+gsplat                   16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 dex-retargeting          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 31 hrs 11 mins (93.28%)
+⏱ AI Coding Time: 26 hrs 23 mins (92.71%)
 
-✍️ 16,901 lines written by AI, 118 lines written by hand (99.31% AI-written)
+✍️ 15,399 lines written by AI, 115 lines written by hand (99.26% AI-written)
 
-🔤 3,265,712 Input Tokens, 400,527 Output Tokens
+🔤 2,352,667 Input Tokens, 309,203 Output Tokens
 
-💵 $16.21 Estimated AI Cost This Week
+💵 $12.10 Estimated AI Cost This Week
 
-🧠 31 AI Sessions, 162 AI Prompts
+🧠 27 AI Sessions, 128 AI Prompts
 
-Deepseek                 15,791 lines        ███████████████████████░░   91.32 % 
-Mimo                     1,500 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+Deepseek                 15,789 lines        █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.31% of written lines came from AI
-📝 Concise Prompter — average 240 characters per prompt
+🤖 AI-Driven — 99.26% of written lines came from AI
+📝 Concise Prompter — average 193 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 2.32% of changed lines were hand-edited
+🚀 High AI Trust — 2.46% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
@@ -118,7 +118,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LihanChen2004/LihanChen2004/main/assets/bar_graph.png)
 
 
- Last Updated on 08/08/2026 04:51:55 UTC
+ Last Updated on 09/08/2026 05:00:41 UTC
 <!--END_SECTION:waka-->
 
 <!--
