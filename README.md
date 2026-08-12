@@ -63,40 +63,40 @@ Sunday                   443 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   7 hrs 26 mins       ████████████░░░░░░░░░░░░░   47.30 % 
-Markdown                 5 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   37.14 % 
-TOML                     1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
-Bash                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-Other                    16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Python                   6 hrs 35 mins       █████████████░░░░░░░░░░░░   51.14 % 
+Markdown                 5 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   40.47 % 
+Bash                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+TOML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 
 🐱‍💻 Projects: 
-lihanchen                12 hrs 36 mins      ████████████████████░░░░░   80.14 % 
-Unknown Project          2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-odin_gsplat_dev          43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-dex-retargeting          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+lihanchen                9 hrs 47 mins       ███████████████████░░░░░░   75.93 % 
+Unknown Project          2 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
+odin_gsplat_dev          43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+dex-retargeting          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 37 mins (86.54%)
+⏱ AI Coding Time: 10 hrs 46 mins (83.56%)
 
-✍️ 6,405 lines written by AI, 82 lines written by hand (98.74% AI-written)
+✍️ 3,336 lines written by AI, 82 lines written by hand (97.6% AI-written)
 
-🔤 1,271,261 Input Tokens, 148,011 Output Tokens
+🔤 851,804 Input Tokens, 96,211 Output Tokens
 
-💵 $7.07 Estimated AI Cost This Week
+💵 $5.04 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 79 AI Prompts
+🧠 5 AI Sessions, 45 AI Prompts
 
-Deepseek                 6,527 lines         █████████████████████████   100.00 % 
+Deepseek                 3,414 lines         █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.74% of written lines came from AI
-📝 Concise Prompter — average 93 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 3.59% of changed lines were hand-edited
+🤖 AI-Driven — 97.6% of written lines came from AI
+📝 Concise Prompter — average 30 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 6.64% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
@@ -116,7 +116,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LihanChen2004/LihanChen2004/main/assets/bar_graph.png)
 
 
- Last Updated on 11/08/2026 05:03:48 UTC
+ Last Updated on 12/08/2026 05:28:39 UTC
 <!--END_SECTION:waka-->
 
 <!--
