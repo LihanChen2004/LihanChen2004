@@ -63,31 +63,30 @@ Sunday                   443 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Bash                     9 hrs 25 mins       █████████████░░░░░░░░░░░░   53.81 % 
-Python                   2 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-Markdown                 2 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-Other                    2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-SSH Config               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+Bash                     9 hrs 25 mins       ██████████████░░░░░░░░░░░   55.29 % 
+Python                   2 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+Other                    2 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+Markdown                 2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+SSH Config               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
 
 🐱‍💻 Projects: 
-lihanchen                15 hrs 47 mins      ███████████████████████░░   90.21 % 
-GRAIL：基于3D资产与视频先验的人形机器人动作1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-odin_gsplat_dev          14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
-Unknown Project          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+lihanchen                15 hrs 33 mins      ███████████████████████░░   91.31 % 
+GRAIL：基于3D资产与视频先验的人形机器人动作1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+Unknown Project          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 16 mins (92.97%)
+⏱ AI Coding Time: 15 hrs 48 mins (92.77%)
 
 ✍️ 2,116 lines written by AI, 16 lines written by hand (99.25% AI-written)
 
-🔤 3,119,342 Input Tokens, 881,253 Output Tokens
+🔤 3,112,948 Input Tokens, 879,587 Output Tokens
 
-💵 $797.89 Estimated AI Cost This Week
+💵 $797.75 Estimated AI Cost This Week
 
-🧠 32 AI Sessions, 125 AI Prompts
+🧠 27 AI Sessions, 120 AI Prompts
 
 Deepseek                 2,116 lines         █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -95,7 +94,7 @@ Mimo                     0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.25% of written lines came from AI
-📝 Concise Prompter — average 151 characters per prompt
+📝 Concise Prompter — average 142 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 19.94% of changed lines were hand-edited
 ```
@@ -117,7 +116,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LihanChen2004/LihanChen2004/main/assets/bar_graph.png)
 
 
- Last Updated on 18/08/2026 04:30:41 UTC
+ Last Updated on 19/08/2026 04:33:03 UTC
 <!--END_SECTION:waka-->
 
 <!--
