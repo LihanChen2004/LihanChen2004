@@ -30,13 +30,13 @@
 
 > 📦 704.2 kB Used in GitHub's Storage 
  > 
-> 🏆 178 Contributions in the Year 2026
+> 🏆 180 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 50 Public Repositories 
  > 
-> 🔑 9 Private Repositories 
+> 🔑 10 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -63,49 +63,50 @@ Sunday                   443 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Bash                     4 hrs 42 mins       ███████████░░░░░░░░░░░░░░   42.15 % 
-Python                   2 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
-Markdown                 2 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
-Other                    1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Markdown                 3 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   41.83 % 
+Bash                     2 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   33.82 % 
+Python                   1 hr 36 mins        █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
+Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 🐱‍💻 Projects: 
-lihanchen                9 hrs 50 mins       ██████████████████████░░░   88.12 % 
-GRAIL：基于3D资产与视频先验的人形机器人动作1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+lihanchen                5 hrs 1 min         █████████████████░░░░░░░░   68.29 % 
+GRAIL：基于3D资产与视频先验的人形机器人动作1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
+港科广选课                    59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 3 mins (90.02%)
+⏱ AI Coding Time: 6 hrs 13 mins (84.65%)
 
-✍️ 1,650 lines written by AI, 10 lines written by hand (99.4% AI-written)
+✍️ 1,756 lines written by AI, 12 lines written by hand (99.32% AI-written)
 
-🔤 2,652,661 Input Tokens, 576,399 Output Tokens
+🔤 3,227,665 Input Tokens, 474,057 Output Tokens
 
-💵 $590.44 Estimated AI Cost This Week
+💵 $401.43 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 79 AI Prompts
+🧠 29 AI Sessions, 59 AI Prompts
 
-Deepseek                 1,650 lines         █████████████████████████   100.00 % 
+Deepseek                 1,756 lines         █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.4% of written lines came from AI
-📝 Concise Prompter — average 89 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 24.0% of changed lines were hand-edited
+🤖 AI-Driven — 99.32% of written lines came from AI
+📝 Concise Prompter — average 184 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 23.08% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
 
 ```text
-C++                      31 repos            ████████████░░░░░░░░░░░░░   48.44 % 
-Python                   22 repos            █████████░░░░░░░░░░░░░░░░   34.38 % 
-C                        4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+C++                      31 repos            ████████████░░░░░░░░░░░░░   47.69 % 
+Python                   22 repos            ████████░░░░░░░░░░░░░░░░░   33.85 % 
+Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 ```
 
 
@@ -115,7 +116,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LihanChen2004/LihanChen2004/main/assets/bar_graph.png)
 
 
- Last Updated on 20/08/2026 04:32:08 UTC
+ Last Updated on 21/08/2026 04:33:21 UTC
 <!--END_SECTION:waka-->
 
 <!--
