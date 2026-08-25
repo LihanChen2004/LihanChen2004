@@ -20,42 +20,42 @@
 ## 📜 𝐀𝐖𝐄𝐒𝐎𝐌𝐄 [𝐖𝐚𝐤𝐚𝐓𝐢𝐦𝐞](https://github.com/anmol098/waka-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C898%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C899%20hrs%2027%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-202%20hrs-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-202%20hrs%2056%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.19%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.20%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 704.2 kB Used in GitHub's Storage 
+> 📦 704.3 kB Used in GitHub's Storage 
  > 
-> 🏆 180 Contributions in the Year 2026
+> 🏆 183 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 50 Public Repositories 
+> 📜 51 Public Repositories 
  > 
 > 🔑 10 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                214 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-🌆 Daytime                1139 commits        ███████████░░░░░░░░░░░░░░   45.43 % 
-🌃 Evening                1134 commits        ███████████░░░░░░░░░░░░░░   45.23 % 
+🌞 Morning                214 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+🌆 Daytime                1141 commits        ███████████░░░░░░░░░░░░░░   45.48 % 
+🌃 Evening                1134 commits        ███████████░░░░░░░░░░░░░░   45.20 % 
 🌙 Night                  20 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   333 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-Tuesday                  329 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-Wednesday                432 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
-Thursday                 341 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
-Friday                   316 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
-Saturday                 313 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-Sunday                   443 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
+Monday                   334 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+Tuesday                  330 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+Wednesday                432 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+Thursday                 341 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+Friday                   316 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+Saturday                 313 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+Sunday                   443 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
 ```
 
 
@@ -63,52 +63,53 @@ Sunday                   443 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 4 hrs 56 mins       ███████████████░░░░░░░░░░   61.12 % 
-YAML                     1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
-Other                    1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
-JSON                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+Markdown                 7 hrs 49 mins       █████████████████░░░░░░░░   67.58 % 
+Other                    1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+YAML                     1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+SSH Config               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
 
 🐱‍💻 Projects: 
-lihanchen                2 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   32.88 % 
-GigaBrain-WBC-0.5：人形机器人全身2 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   30.92 % 
-港科广选课                    1 hr 41 mins        █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
-ELPA                     1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-Unknown Project          11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+ELPA                     3 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   33.90 % 
+lihanchen                3 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   26.57 % 
+GigaBrain-WBC-0.5：人形机器人全身2 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   21.60 % 
+港科广选课                    1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+Unknown Project          11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 9 mins (63.8%)
+⏱ AI Coding Time: 6 hrs 55 mins (59.88%)
 
-✍️ 671 lines written by AI, 2,169 lines written by hand (23.63% AI-written)
+✍️ 695 lines written by AI, 2,206 lines written by hand (23.96% AI-written)
 
-🔤 1,966,003 Input Tokens, 225,864 Output Tokens
+🔤 3,520,749 Input Tokens, 244,902 Output Tokens
 
-💵 $141.19 Estimated AI Cost This Week
+💵 $154.54 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 76 AI Prompts
+🧠 27 AI Sessions, 111 AI Prompts
 
-GPT                      786 lines           ███████████████████░░░░░░   74.29 % 
-Deepseek                 272 lines           ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
+GPT                      804 lines           ███████████████████░░░░░░   74.31 % 
+Deepseek                 278 lines           ██████░░░░░░░░░░░░░░░░░░░   25.69 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 23.63% of written lines came from AI
-📄 Detailed Prompter — average 708 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 73.63% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 23.96% of written lines came from AI
+📄 Detailed Prompter — average 596 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 73.87% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
 
 ```text
-C++                      31 repos            ████████████░░░░░░░░░░░░░   47.69 % 
-Python                   22 repos            ████████░░░░░░░░░░░░░░░░░   33.85 % 
-Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
-Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+C++                      31 repos            ████████████░░░░░░░░░░░░░   46.97 % 
+Python                   23 repos            █████████░░░░░░░░░░░░░░░░   34.85 % 
+Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 ```
 
 
@@ -118,7 +119,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LihanChen2004/LihanChen2004/main/assets/bar_graph.png)
 
 
- Last Updated on 24/08/2026 04:40:36 UTC
+ Last Updated on 25/08/2026 04:34:45 UTC
 <!--END_SECTION:waka-->
 
 <!--
