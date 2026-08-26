@@ -20,9 +20,9 @@
 ## 📜 𝐀𝐖𝐄𝐒𝐎𝐌𝐄 [𝐖𝐚𝐤𝐚𝐓𝐢𝐦𝐞](https://github.com/anmol098/waka-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C899%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C902%20hrs%2043%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-202%20hrs%2056%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-204%20hrs%2044%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.20%20million%20lines%20of%20code-blue?style=flat)
 
@@ -30,11 +30,11 @@
 
 > 📦 704.3 kB Used in GitHub's Storage 
  > 
-> 🏆 183 Contributions in the Year 2026
+> 🏆 184 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 51 Public Repositories 
+> 📜 50 Public Repositories 
  > 
 > 🔑 10 Private Repositories 
  > 
@@ -63,32 +63,32 @@ Sunday                   443 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 7 hrs 49 mins       █████████████████░░░░░░░░   67.58 % 
-Other                    1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-YAML                     1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
-SSH Config               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+Markdown                 7 hrs 46 mins       ██████████████░░░░░░░░░░░   57.54 % 
+Other                    3 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   23.57 % 
+YAML                     1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+SSH Config               38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
 
 🐱‍💻 Projects: 
-ELPA                     3 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   33.90 % 
-lihanchen                3 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   26.57 % 
-GigaBrain-WBC-0.5：人形机器人全身2 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   21.60 % 
-港科广选课                    1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-Unknown Project          11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+ELPA                     4 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   34.17 % 
+lihanchen                4 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   31.93 % 
+GigaBrain-WBC-0.5：人形机器人全身2 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+港科广选课                    1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+Unknown Project          11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 55 mins (59.88%)
+⏱ AI Coding Time: 8 hrs 38 mins (63.97%)
 
-✍️ 695 lines written by AI, 2,206 lines written by hand (23.96% AI-written)
+✍️ 695 lines written by AI, 2,243 lines written by hand (23.66% AI-written)
 
-🔤 3,520,749 Input Tokens, 244,902 Output Tokens
+🔤 4,865,623 Input Tokens, 267,152 Output Tokens
 
-💵 $154.54 Estimated AI Cost This Week
+💵 $190.18 Estimated AI Cost This Week
 
-🧠 27 AI Sessions, 111 AI Prompts
+🧠 28 AI Sessions, 128 AI Prompts
 
 GPT                      804 lines           ███████████████████░░░░░░   74.31 % 
 Deepseek                 278 lines           ██████░░░░░░░░░░░░░░░░░░░   25.69 % 
@@ -96,10 +96,10 @@ Opencode-Cli             0 lines             ░░░░░░░░░░░�
 Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 23.96% of written lines came from AI
-📄 Detailed Prompter — average 596 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 73.87% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 23.66% of written lines came from AI
+📄 Detailed Prompter — average 522 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 74.2% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
@@ -119,7 +119,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LihanChen2004/LihanChen2004/main/assets/bar_graph.png)
 
 
- Last Updated on 25/08/2026 04:34:45 UTC
+ Last Updated on 26/08/2026 04:35:36 UTC
 <!--END_SECTION:waka-->
 
 <!--
