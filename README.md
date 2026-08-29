@@ -28,7 +28,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 704.3 kB Used in GitHub's Storage 
+> 📦 704.4 kB Used in GitHub's Storage 
  > 
 > 🏆 186 Contributions in the Year 2026
  > 
@@ -63,43 +63,42 @@ Sunday                   443 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 7 hrs 36 mins       ██████████████░░░░░░░░░░░   56.56 % 
-Other                    3 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
-YAML                     1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
-SSH Config               38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
-JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+Markdown                 5 hrs 15 mins       █████████████████░░░░░░░░   66.63 % 
+Other                    1 hr 55 mins        ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
+SSH Config               38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🐱‍💻 Projects: 
-ELPA                     4 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   34.33 % 
-lihanchen                4 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   32.75 % 
-GigaBrain-WBC-0.5：人形机器人全身2 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
-港科广选课                    1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-odin_gsplat_dev          25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+ELPA                     4 hrs 37 mins       ███████████████░░░░░░░░░░   58.43 % 
+lihanchen                1 hr 49 mins        ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
+港科广选课                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+odin_gsplat_dev          25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+问卷design thinking course 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 21 mins (62.14%)
+⏱ AI Coding Time: 5 hrs (63.32%)
 
-✍️ 452 lines written by AI, 2,244 lines written by hand (16.77% AI-written)
+✍️ 445 lines written by AI, 2,117 lines written by hand (17.37% AI-written)
 
-🔤 4,946,900 Input Tokens, 238,050 Output Tokens
+🔤 4,500,530 Input Tokens, 143,915 Output Tokens
 
-💵 $230.41 Estimated AI Cost This Week
+💵 $145.95 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 133 AI Prompts
+🧠 12 AI Sessions, 83 AI Prompts
 
-GPT                      804 lines           ██████████████████████░░░   88.16 % 
-Deepseek                 108 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+GPT                      793 lines           ██████████████████████░░░   88.11 % 
+Deepseek                 107 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 16.77% of written lines came from AI
-📄 Detailed Prompter — average 517 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 77.38% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 17.37% of written lines came from AI
+📝 Concise Prompter — average 244 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🔍 Hands-On Reviewer — 72.77% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
@@ -119,7 +118,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LihanChen2004/LihanChen2004/main/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2026 15:53:02 UTC
+ Last Updated on 29/08/2026 10:41:36 UTC
 <!--END_SECTION:waka-->
 
 <!--
