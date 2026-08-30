@@ -29,9 +29,6 @@ jobs:
           SHOW_OS: False
           SHOW_TIMEZONE: False
           SHOW_EDITORS: False
-          BAR_STYLE: "svg"
-          BAR_COLOR: "#90CAF9"
-          BAR_TRACK_COLOR: "#172f45"
-          BAR_RADIUS: "4"
+          SYMBOL_VERSION: "1"
           BADGE_STYLE: "flat"
           LOCALE: "en"
