@@ -15,6 +15,34 @@ Learning · Building · Breaking · Fixing
 ### Coding lately
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C903%20hrs%2018%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-206%20hrs%2029%20mins-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Markdown                 5 hrs 10 mins       █████████████████░░░░░░░░   66.26 % 
+Other                    1 hr 55 mins        ██████░░░░░░░░░░░░░░░░░░░   24.68 % 
+SSH Config               38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+```
+
+**I Mostly Code in C++** 
+
+```text
+C++                      31 repos            ████████████░░░░░░░░░░░░░   46.97 % 
+Python                   23 repos            █████████░░░░░░░░░░░░░░░░   34.85 % 
+Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+```
+
+
+
+
 <!--END_SECTION:waka-->
 
 ---
