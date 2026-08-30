@@ -1,7 +1,7 @@
 <h2 align="left">
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Lihan Chen, A student majoring in Electronic and Computer Engineering :computer:<br>
+   <br> I'm Lihan Chen, MPhil Student at HKUST(GZ) in Robotics and Autonomous Systems :robot:<br>
   <br>
  </abc>
 </h2>
@@ -12,8 +12,8 @@
 
 <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=LihanChen2004&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-- 🌟 Interested in robotics, navigation, photography...
-- 🌱 I’m currently learning C++, ROS ... 
+- 🌟 Research: Robotics, Autonomous Navigation, SLAM, Computer Vision
+- 🌱 Currently working on: ROS2, Nav2, SLAM algorithms, Robot Perception
 - 📫 How to reach me: lihanchen2004@163.com, [Bilibili: 陈立憨](https://space.bilibili.com/170786212)
 - 👯 INFJ, but eager to friendly socializing
 
