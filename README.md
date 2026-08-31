@@ -23,11 +23,11 @@ Learning · Building · Breaking · Fixing
 
 ```text
 💬 Programming Languages: 
-Markdown                 5 hrs 10 mins       █████████████████░░░░░░░░   66.26 % 
-Other                    1 hr 55 mins        ██████░░░░░░░░░░░░░░░░░░░   24.68 % 
-SSH Config               38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Markdown                 4 hrs 29 mins       ███████████████░░░░░░░░░░   59.02 % 
+Other                    1 hr 50 mins        ██████░░░░░░░░░░░░░░░░░░░   24.17 % 
+SSH Config               38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+YAML                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 ```
 
 **I Mostly Code in C++** 
