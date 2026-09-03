@@ -15,29 +15,29 @@ Learning · Building · Breaking · Fixing
 ### Coding lately
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C907%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C911%20hrs%2049%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-212%20hrs%2028%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-219%20hrs%206%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 4 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   41.75 % 
-JSON                     2 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
-Other                    1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
-YAML                     1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-Image (png)              20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+Other                    8 hrs 24 mins       █████████████░░░░░░░░░░░░   50.11 % 
+Markdown                 4 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   24.30 % 
+JSON                     2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+YAML                     1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+Image (png)              20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 ```
 
 **I Mostly Code in C++** 
 
 ```text
-C++                      31 repos            ████████████░░░░░░░░░░░░░   46.97 % 
-Python                   23 repos            █████████░░░░░░░░░░░░░░░░   34.85 % 
-Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+C++                      31 repos            ████████████░░░░░░░░░░░░░   46.27 % 
+Python                   24 repos            █████████░░░░░░░░░░░░░░░░   35.82 % 
+Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 ```
 
 
