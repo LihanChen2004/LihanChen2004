@@ -15,29 +15,29 @@ Learning · Building · Breaking · Fixing
 ### Coding lately
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C911%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C915%20hrs%204%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-225%20hrs%2048%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-230%20hrs%2020%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    10 hrs 32 mins      ███████████░░░░░░░░░░░░░░   42.10 % 
-Markdown                 8 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   32.01 % 
-JSON                     2 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-YAML                     1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-Python                   1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+Other                    17 hrs 12 mins      █████████████░░░░░░░░░░░░   51.59 % 
+Markdown                 8 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   24.54 % 
+JSON                     2 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+SSH Config               2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+YAML                     1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
 ```
 
 **I Mostly Code in C++** 
 
 ```text
-C++                      31 repos            ███████████░░░░░░░░░░░░░░   45.59 % 
-Python                   25 repos            █████████░░░░░░░░░░░░░░░░   36.76 % 
-Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+C++                      31 repos            ███████████░░░░░░░░░░░░░░   44.93 % 
+Python                   26 repos            █████████░░░░░░░░░░░░░░░░   37.68 % 
+Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 ```
 
 
