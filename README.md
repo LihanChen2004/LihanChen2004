@@ -17,17 +17,17 @@ Learning · Building · Breaking · Fixing
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C924%20hrs%2032%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-251%20hrs%2011%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-254%20hrs%2031%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    12 hrs 40 mins      ██████████████░░░░░░░░░░░   57.24 % 
-Markdown                 3 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-SSH Config               2 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-Python                   1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-Bash                     1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+Other                    7 hrs 59 mins       ██████████████░░░░░░░░░░░   55.45 % 
+Markdown                 3 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
+Python                   1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+Bash                     1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+SSH Config               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
 ```
 
 **I Mostly Code in C++** 
