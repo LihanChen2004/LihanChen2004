@@ -15,17 +15,17 @@ Learning · Building · Breaking · Fixing
 ### Coding lately
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C929%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C931%20hrs%2035%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-265%20hrs%205%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-268%20hrs%2032%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 7 hrs 48 mins       ████████████░░░░░░░░░░░░░   49.89 % 
-Other                    7 hrs 36 mins       ████████████░░░░░░░░░░░░░   48.56 % 
-JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Other                    8 hrs 26 mins       █████████████░░░░░░░░░░░░   53.68 % 
+Markdown                 7 hrs 2 mins        ███████████░░░░░░░░░░░░░░   44.79 % 
+JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 iCalendar                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 ```
 
