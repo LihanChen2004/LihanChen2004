@@ -15,19 +15,19 @@ Learning · Building · Breaking · Fixing
 ### Coding lately
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C936%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C938%20hrs%2058%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-277%20hrs%2053%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-280%20hrs%2010%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 7 hrs 31 mins       ████████████░░░░░░░░░░░░░   47.53 % 
-Other                    7 hrs 10 mins       ███████████░░░░░░░░░░░░░░   45.32 % 
-CSS                      30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
-HTML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Markdown                 7 hrs 1 min         ███████████░░░░░░░░░░░░░░   45.73 % 
+Other                    5 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   37.20 % 
+HTML                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+CSS                      37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+JavaScript               36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
 ```
 
 **I Mostly Code in C++** 
