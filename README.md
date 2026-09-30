@@ -15,29 +15,29 @@ Learning · Building · Breaking · Fixing
 ### Coding lately
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C959%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C962%20hrs%2037%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-301%20hrs%2051%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-305%20hrs%2020%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 9 hrs 50 mins       ███████████░░░░░░░░░░░░░░   45.14 % 
-Python                   3 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-Other                    2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-Image (png)              2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-JavaScript               46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+Markdown                 9 hrs 10 mins       ████████████░░░░░░░░░░░░░   47.79 % 
+Image (png)              3 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
+Python                   2 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
+Other                    1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+Image (jpeg)             49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
 ```
 
-**I Mostly Code in C++** 
+**I Mostly Code in Python** 
 
 ```text
-C++                      29 repos            ██████████░░░░░░░░░░░░░░░   41.43 % 
-Python                   28 repos            ██████████░░░░░░░░░░░░░░░   40.00 % 
-TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Python                   31 repos            ██████████░░░░░░░░░░░░░░░   41.89 % 
+C++                      29 repos            ██████████░░░░░░░░░░░░░░░   39.19 % 
+Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 ```
 
 
