@@ -23,11 +23,11 @@ Learning · Building · Breaking · Fixing
 
 ```text
 💬 Programming Languages: 
-Python                   6 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   26.09 % 
-Other                    6 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
-Markdown                 6 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   23.57 % 
-Bash                     3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-Image (png)              2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+Markdown                 6 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   34.52 % 
+Python                   5 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   31.05 % 
+Bash                     2 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+Other                    2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+JavaScript               37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
 ```
 
 **I Mostly Code in Python** 
