@@ -15,7 +15,7 @@ Learning · Building · Breaking · Fixing
 ### Coding lately
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C146%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C146%20hrs%2051%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-514%20hrs%2041%20mins-blue?style=flat)
 
@@ -23,11 +23,11 @@ Learning · Building · Breaking · Fixing
 
 ```text
 💬 Programming Languages: 
-Markdown                 7 hrs 16 mins       ███████████████░░░░░░░░░░   59.06 % 
-Python                   2 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   22.29 % 
-Bash                     1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-Other                    33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Markdown                 4 hrs 31 mins       ███████████████░░░░░░░░░░   60.94 % 
+Python                   1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
+Bash                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+Other                    32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 ```
 
 **I Mostly Code in Python** 
